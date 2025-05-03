@@ -1,16 +1,21 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
 
-<!--
-**A7medPro/A7medPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+import Web Developer from 'A7med Bahaa';
 
-Here are some ideas to get you started:
+class Bio extends SoftwareDeveloper {
+  name     = 'AhmedBahaa Eldin';
+  title    = 'Web Developer';
+  company  = ' Study step by step every day';
+  location = 'EGYPT';
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Skills extends WebDeveloper {
+  languages  = ['HTML', 'CSS','JavaScript'];
+  frameworks = ['SASS','React','React Native'];
+}
+```
+
+⭐️ From [A7med](https://github.com/A7medPro)
