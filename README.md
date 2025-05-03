@@ -10,6 +10,7 @@ class Bio extends SoftwareDeveloper {
   title    = 'Web Developer';
   company  = ' Study step by step every day';
   location = 'EGYPT';
+  Phone = '01101119940','01008949441';
 }
 
 class Skills extends WebDeveloper {
